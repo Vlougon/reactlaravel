@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:3000', 'https://laravelreact-b5qx.onrender.com'],
+    'allowed_origins' => ['http://localhost:3000', 'http://victorreact.informaticamajada.es'],
 
     'allowed_origins_patterns' => [],
 
